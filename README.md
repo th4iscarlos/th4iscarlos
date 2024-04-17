@@ -1,7 +1,7 @@
 ### Hello! I am Thaís Carlos 👋
 
 
-- 🔭 Studying Neural Networks
+- 🔭 Studying Deep Learning
 - 🪐 Ask me about Sci-fi movies & books                         
 - 😄 Pronouns: she/her/ela/dela
 
